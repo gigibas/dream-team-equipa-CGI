@@ -1,7 +1,7 @@
 Receita de bolo esponja
 Feito para a Carlotinha comer 😋
 
-Doses: 8 pessoas
+
 
 Tempo de preparação: 20 minutos
 
