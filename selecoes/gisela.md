@@ -1,0 +1,36 @@
+Ficha Gisela — Halloween Cupcakes
+Chefe: Kuromi
+
+Receita: Cupcakes de Chocolate Negro e Amora
+
+Doses: 12 unidades
+
+Tempo de preparação: 20 minutos
+
+Tempo de cozimento: 22 minutos
+
+Ingredientes:
+
+150 g de farinha de trigo
+
+50 g de cacau em pó puro
+
+150 g de açúcar mascavado
+
+2 ovos
+
+120 ml de leite
+
+100 g de manteiga derretida
+
+150 g de queijo creme batido com amoras (para a cobertura)
+
+Instruções:
+
+Misture os ingredientes secos (farinha, cacau e açúcar) numa taça grande.
+
+Adicione os ovos, o leite e a manteiga derretida, batendo até obter uma massa lisa.
+
+Distribua a massa por 12 formas de cupcake e leve ao forno pré-aquecido a 180 °C durante 22 minutos.
+
+Deixe arrefecer totalmente e decore o topo com o creme roxo de amora.
