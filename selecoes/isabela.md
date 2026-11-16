@@ -1,7 +1,7 @@
 
 RECEITA DE PÃO DE QUEIJO
 
-Doses: 
+Doses: 20 unidades 
 
 Tempo de preparação: 15 minutos
 
