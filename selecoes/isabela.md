@@ -1,6 +1,13 @@
+
 RECEITA DE PÃO DE QUEIJO
 
-Ingredientes:
+Doses: 20 unidades
+
+Tempo de preparação: 15 minutos
+
+Tempo de cozimento: 25 minutos
+
+Ingredientes
 - 500 g de polvilho doce
 - 250 ml de leite
 - 100 ml de óleo
@@ -8,7 +15,7 @@ Ingredientes:
 - 2 ovos
 - 200 g de queijo ralado
 
-Preparação:
+Instruções
 1. Aqueça o leite, o óleo e o sal numa panela.
 2. Coloque o polvilho numa tigela e adicione a mistura quente.
 3. Misture bem e deixe arrefecer um pouco.
@@ -22,4 +29,5 @@ Preparação:
 Bom apetite!
 
 Vou muito experimentar isto algum dia ^w^!
-Assinado por: Gisela
+
+Assinado por: Isabela
