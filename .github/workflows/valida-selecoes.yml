@@ -1,0 +1,21 @@
+
+name: validar-selecoes
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter o código do repositório
+        uses: actions/checkout@v4
+
+      - name: Dar permissões ao script
+        run: chmod +x scripts/valida.sh
+
+      - name: Validar as seleções
+        run: bash scripts/valida.sh
