@@ -3,7 +3,7 @@ RECEITA DE BRIGADEIRO
 
 
 Tempo de preparação: 10 minutos
-
+Doses: 20 unidades
 Tempo de cozimento: 15 minutos
 
 Ingredientes
