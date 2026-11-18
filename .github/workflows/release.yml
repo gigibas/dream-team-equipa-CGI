@@ -1,0 +1,25 @@
+
+name: release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter o código do repositório
+        uses: actions/checkout@v4
+
+      - name: Validar antes de publicar
+        run: bash scripts/valida.sh
+
+      - name: Criar a Release
+        run: gh release create "${{ github.ref_name }}" --title "Dream Team ${{ github.ref_name }}" --generate-notes
+        env:
+          GH_TOKEN: ${{ github.token }}
